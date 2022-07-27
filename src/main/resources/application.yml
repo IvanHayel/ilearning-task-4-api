@@ -8,10 +8,10 @@ spring:
       ddl-auto: update
     open-in-view: 'false'
   datasource:
-    password: 839841413f5d655193dacfc759f63b8989e0b4a7f0812e1f8b91a0cad6e88f4a
+    password: 121586319ded898872dd33021fe19e3be9eda7534fb17b34328e3923fc84f852
     driver-class-name: org.postgresql.Driver
-    username: zahlzwisiamtzt
-    url: jdbc:postgresql://ec2-52-30-159-47.eu-west-1.compute.amazonaws.com:5432/dcf53027p75359
+    username: xcigzwzzjpkpvw
+    url: jdbc:postgresql://ec2-34-247-72-29.eu-west-1.compute.amazonaws.com:5432/dcf53027p75359
 jwt:
   expiration-time: '1800000'
   secret: itransition
